@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 20px;
+}
+
+#cabecalho {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.titulo-principal {
+    color: #004aad;
+    font-size: 32px;
+}
+
+.subtitulo {
+    font-style: italic;
+    color: #555;
+}
+
+.secao-titulo {
+    font-size: 22px;
+    text-decoration: underline;
+    margin-top: 20px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin-top: 10px;
+    border-left: 5px solid #004aad;
+}
+
+a[type="email"]:hover {
+    color: red;
+    text-decoration: underline;
+}
